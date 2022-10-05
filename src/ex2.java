@@ -19,6 +19,5 @@ public class ex2 {
         }
 
         System.out.println("O caractere digitado aparece(m) " + cont + " vez(es).");
-
 }
 }

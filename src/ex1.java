@@ -32,7 +32,5 @@ public class ex1 {
             }
         }
         System.out.println("Quantidade totais de vogais: " +cont);
-
-
     }
 }
